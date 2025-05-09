@@ -1,4 +1,4 @@
-
+Projects & Hands-on-labs
 | | | |
 |-------------------------------|-----------------------------------------------|----------------------------------------------------|
 | Splunk >           | Searching, Filtering, Transforming, and Visualizing Data using SPL       | [View](./Splunk/Splunk_Searching,Filtering,Transforming_and_Visualizing_Data_using_SPL.pdf)          |
@@ -41,6 +41,6 @@
 | PCAP   | Network Packet Capture Analysis Report | [View](./PCAP/Network_Packet_Capture_Analysis_Report.pdf)|
 | | | |
 | | | |
-| PCAP   | Network Packet Capture Analysis Report | [View](./PCAP/Network_Packet_Capture_Analysis_Report.pdf)|
+| User Emuration   | Enumerating Users with FUFF | [View](./User_Emuration/Enumerating_Users_with_FUFF.pdf)|
 
 
