@@ -35,3 +35,7 @@
 | Autopsy    | Analysing Windows Disk Image using Autopsy | [View](./Windows_Disk_Image/Win_Disk_Image.pdf)|
 | | | |
 | | | |
+| Investigation Report Template   |  | [View](./Invest_Report_Temp/Investigation_Report_Template.pdf)|
+| | | |
+| | | |
+| Investigation Report Template   |  | [View](./Invest_Report_Temp/Investigation_Report_Template.pdf)|
