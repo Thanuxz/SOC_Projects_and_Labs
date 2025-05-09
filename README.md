@@ -20,6 +20,10 @@
 | Windows Event Viewer        | Windows Event Log Analysis with Filtering and XML Queries         | [View](./WindowsEventViewer/Windows_Event_Log_Analysis_with_Filtering_and_XML_Queries.pdf)          |
 | | | |
 | | | |
+| Packet Tracer       | Investigate a Threat Landscape        | [View](./PacketTracer/Packet_Tracer_Investigate_a_Threat_Landscape.pdf)          |
+| | | |
+| | | |
+
 
 
 
