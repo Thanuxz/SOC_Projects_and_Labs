@@ -24,6 +24,11 @@
 | | | |
 | | | |
 | Dll Hijacking      | Replicate the DLL hijacking attack and Find the SHA256 hash of the malicious WININET.dll.        | [View](./Attack/DLL_Hijacking/DLLHijacking_Simulation_and_Detection_with_Sysmon_and_Event_Viewer.pdf) 
-
+| | | |
+| | | |
+| OSINT     | Exploring Company vulnerability using websites        | [View](./OSINT/Exploring_Company_vulnerability_using_websites_OSINT.pdf)|
+| | | |
+| | | |
+| OSINT     | Exploring Company vulnerability using websites        | [View](./OSINT/Exploring_Company_vulnerability_using_websites_OSINT.pdf)|
 
 
