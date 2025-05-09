@@ -5,7 +5,6 @@ This repository contains hands-on examples and explanations for using Splunk Pro
 ## Table of Contents
 
 | Topic                          | Description                                   | PDF Link                                           |
-|-------------------------------|-----------------------------------------------|----------------------------------------------------|
-| Searching with SPL            | Learn how to query data using basic SPL       | [View PDF](Splunk   _ Searching, Filtering, Transforming, and Visualizing Data using SPL.pdf)          |
-| Filtering and Transforming    | Techniques for narrowing and shaping results  | [View PDF](./PDFs/Splunk   _ Searching, Filtering, Transforming, and Visualizing Data using SPL.pdf)  |
+|-------------------------------|-----------------------------------------------|----------------------------------------------------|        |
+| Filtering and Transforming    | Techniques for narrowing and shaping results  | [View PDF](./PDFs/Splunk,Searching,Filtering,Transforming,and,Visualizing,Data,using,SPL.pdf)  |
 | Visualizing Data in Splunk    | Create insightful dashboards and graphs       | [View PDF](./pdfs/Visualizing_Data_in_Splunk.pdf)  |
