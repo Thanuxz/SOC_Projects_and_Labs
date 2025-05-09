@@ -17,8 +17,7 @@
 ||Spoofed Email Header Analysis Report|[View](./EmailHeader/Email_Header_Analysis_Report.pdf)|
 | | | |
 | | | |
-| Email Header Analysis         | Email Header Analysis and Authentication Mechanisms Explained        | [View](./EmailHeader/Email_Header_Analysis_and_Authentication_Mechanisms_Explained.pdf)          |
-||Spoofed Email Header Analysis Report|[View](./EmailHeader/Email_Header_Analysis_Report.pdf)|
+| Windows Event Viewer        | Windows Event Log Analysis with Filtering and XML Queries         | [View](./WindowsEventViewer/Windows_Event_Log_Analysis_with_Filtering_and_XML_Queries.pdf)          |
 | | | |
 | | | |
 
