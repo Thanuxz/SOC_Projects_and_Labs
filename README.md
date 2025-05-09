@@ -29,6 +29,7 @@
 | OSINT     | Exploring Company vulnerability using websites        | [View](./OSINT/Exploring_Company_vulnerability_using_websites_OSINT.pdf)|
 | | | |
 | | | |
-| OSINT     | Exploring Company vulnerability using websites        | [View](./OSINT/Exploring_Company_vulnerability_using_websites_OSINT.pdf)|
-
+| Privacy Impact Assesment    | OneSolution Inc  Privacy Impact Assessment | [View](./PIA/Privacy_Impact_Assessment.pdf)|
+| | | |
+| | | |
 
