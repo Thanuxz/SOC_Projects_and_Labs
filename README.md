@@ -12,3 +12,5 @@
 ||Attack Detection|[View](./ELK/ELK_Attack_Detection.pdf)|
 | | | |
 | | | |
+| Email Header Analysis         | Email Header Analysis and Authentication Mechanisms Explained        | [View](./ELK/Elastic_Stack_As_a_SIEM_Solution.pdf)          |
+||Spoofed Email Header Analysis Report|[View](./ELK/ELK_log_analysis_report.pdf)|
