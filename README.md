@@ -6,5 +6,5 @@ This repository contains hands-on examples and explanations for using Splunk Pro
 
 | Topic                          | Description                                   | PDF Link                                           |
 |-------------------------------|-----------------------------------------------|----------------------------------------------------|
-| Searching with SPL            | Learn how to query data using basic SPL       | [View PDF](./pdfs/Searching_with_SPL.pdf)          |
+| Searching with SPL            | Learn how to query data using basic SPL       | [View PDF](./Splunk/Splunk_Searching,Filtering,Transforming_and_Visualizing_Data_using_SPL.pdf)          |
 |
