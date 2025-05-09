@@ -23,7 +23,7 @@
 | Packet Tracer       | Investigate a Threat Landscape        | [View](./PacketTracer/Packet_Tracer_Investigate_a_Threat_Landscape.pdf)          |
 | | | |
 | | | |
-
+| Dll Hijacking      | Replicate the DLL hijacking attack and Find the SHA256 hash of the malicious WININET.dll.        | [View](./Attack/DLL_Hijacking/DLLHijacking_Simulation_and_Detection_with_Sysmon_and_Event_Viewer.pdf) 
 
 
 
